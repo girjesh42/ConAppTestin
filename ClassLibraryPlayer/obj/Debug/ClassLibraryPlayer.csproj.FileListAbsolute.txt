@@ -1,0 +1,9 @@
+C:\Users\Girjesh kumar\source\repos\ConsoleAppTestPlayer\ClassLibraryPlayer\bin\Debug\ClassLibraryPlayer.dll
+C:\Users\Girjesh kumar\source\repos\ConsoleAppTestPlayer\ClassLibraryPlayer\bin\Debug\ClassLibraryPlayer.pdb
+C:\Users\Girjesh kumar\source\repos\ConsoleAppTestPlayer\ClassLibraryPlayer\bin\Debug\nunit.framework.dll
+C:\Users\Girjesh kumar\source\repos\ConsoleAppTestPlayer\ClassLibraryPlayer\bin\Debug\nunit.framework.xml
+C:\Users\Girjesh kumar\source\repos\ConsoleAppTestPlayer\ClassLibraryPlayer\obj\Debug\ClassLibraryPlayer.csprojAssemblyReference.cache
+C:\Users\Girjesh kumar\source\repos\ConsoleAppTestPlayer\ClassLibraryPlayer\obj\Debug\ClassLibraryPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Girjesh kumar\source\repos\ConsoleAppTestPlayer\ClassLibraryPlayer\obj\Debug\ClassLibraryPlayer.csproj.CopyComplete
+C:\Users\Girjesh kumar\source\repos\ConsoleAppTestPlayer\ClassLibraryPlayer\obj\Debug\ClassLibraryPlayer.dll
+C:\Users\Girjesh kumar\source\repos\ConsoleAppTestPlayer\ClassLibraryPlayer\obj\Debug\ClassLibraryPlayer.pdb
